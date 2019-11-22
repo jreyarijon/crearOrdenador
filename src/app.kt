@@ -9,4 +9,6 @@ fun main(){
 
     var miComp = Ordenador(Cpu(2,5), Raton("blue"), Screen("Samsung",15))
     miComp.memoria = 4000
+
+    //Modificación
 }
